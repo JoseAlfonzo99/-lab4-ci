@@ -1,7 +1,9 @@
 {
     "_meta": {
         "hash": {
+
             "sha256": "998930e4482b67d469d6e672d9c3e33f6b6370287384a75df316b00b5d8e5958"
+
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -73,6 +75,7 @@
         }
     },
     "develop": {
+
         "attrs": {
             "hashes": [
                 "sha256:5cfb1b9148b5b086569baec03f20d7b6bf3bcacc9a42bebf87ffaaca362f6346",
@@ -81,6 +84,7 @@
             "markers": "python_version >= '3.7'",
             "version": "==24.2.0"
         },
+
         "black": {
             "hashes": [
                 "sha256:14b3502784f09ce2443830e3133dacf2c0110d45191ed470ecb04d0f5f6fcb0f",
@@ -205,6 +209,7 @@
             "markers": "python_version >= '3.7'",
             "version": "==2.0.0"
         },
+
         "mypy-extensions": {
             "hashes": [
                 "sha256:4392f6c0eb8a5668a69e23d168ffa70f0be9ccfd32b5cc2d26a34ae5b844552d",
@@ -237,6 +242,7 @@
             "markers": "python_version >= '3.8'",
             "version": "==4.3.6"
         },
+
         "pluggy": {
             "hashes": [
                 "sha256:2cffa88e94fdc978c4c574f15f9e59b7f4201d439195c3715ca9e2486f1d0cf1",
@@ -262,6 +268,7 @@
             "markers": "python_version >= '3.9'",
             "version": "==6.0.0"
         },
+
         "tomli": {
             "hashes": [
                 "sha256:2ebe24485c53d303f690b0ec092806a085f07af5a5aa1464f3931eec36caaa38",
